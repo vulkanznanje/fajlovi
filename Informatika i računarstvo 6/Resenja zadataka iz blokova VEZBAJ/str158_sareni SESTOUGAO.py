@@ -1,0 +1,21 @@
+import turtle
+turtle.width(5)
+turtle.color("brown")
+turtle.fd(100);turtle.rt(60)
+turtle.width(1)
+turtle.color("blue")
+turtle.fd(100);turtle.rt(60)
+turtle.width(10)
+turtle.color("green")
+turtle.fd(100);turtle.rt(60)
+turtle.width(4)
+turtle.color("red")
+turtle.fd(100);turtle.rt(60)
+turtle.width(15)
+turtle.color("purple")
+turtle.fd(100);turtle.rt(60)
+turtle.width(7)
+turtle.color("black")
+turtle.fd(100);turtle.rt(60)
+
+
