@@ -1,7 +1,7 @@
 ﻿Ovde cete pronaci dodatne materijale koje mozete koristiti prilikom 
 realizacije casova posvecenih konstruktorskom modelovanju.
 
-Svaki od podfoldera ima svoj readme fajl u kom je objašnjeno 
+Svaki od podfoldera ima svoj readme fajl u kom je objasnjeno 
 šta se u tom folderu nalazi.
 
 
