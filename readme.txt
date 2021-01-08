@@ -1,26 +1,26 @@
-Ovde cete pronaci zbirku zadataka za Jupyter Notebook u vidu svezaka 
-(fajlova sa ekstenzijom .ipynb) nazvanih Lekcija33 - Lekcija310.
-Svaka sveska se sastoji od brojnih zadataka koje ucenici mogu resavati
-nakon sto savladaju datu lekciju.
+﻿U ovom folderu se nalaze primeri petnaestominutnih testova i kontrolnih vezbi 
+izradjeni na osnovu gradiva naseg udzbenika Informatike i racunarstva za 7. razred.
 
-Pored toga, ovde se nalazi nekoliko CSV fajlova potrebnih za resavanje zadataka
-iz navedenih svezaka, kao i za resavanje zadataka iz udzbenika
-Informatika i racunarstvo 8, izdavacke kuce Vulkan znanje.
+U kontrolnim vezbama je za svaki zadatak naveden broj bodova koji on nosi, 
+a na kraju je data skala za ocenjivanje. Na ovaj nacin ucenici mogu izvrsiti 
+samoevaluaciju svog znanja.
 
-Fajl pod nazivom 3.10. Vizuelna prezentacija sveske.ipynb, predstavlja dodatnu lekciju
-koja je namenjena naprednim ucenicima za koje je planirano da tokom realizacije 
-Projektnog zadatka 2, datu lekciju samostalno prouce i implementiraju u svoj projektni zadatak.
+S obzirom na to da u globalnom planu nisu eksplicitno definisani casovi 
+na kojima se rade kontrolne vezbe, nas predlog je da se one rade na kraju svake 
+od 3 oblasti i to na ustrb casova namenjenih projektnim zadacima, a da se teziste 
+projektne nastave prebaci na rad kod kuce. Na ovaj nacin ce svi ucenici imati najmanje
+po 3 ocene prakticnog znanja i vestina, dok im "teorijsko" znanje mozete ocenjivati 
+pomocu 15-min testova, kao i testova za proveru znanja iz samog udzbenika. U zavisnosti 
+od nacina Vaseg rada i dinamike realizacije nastave, kontrolne vezbe mozete zadavati i parcijalno.  
 
-U folderima Informatika i racunarstvo 6, 7 i 8 nalaze se dodatni sadrzaji
-namenjeni za koriscenje uz nase udzbenike za sesti, sedmi i osmi razred.
+Projektni zadaci takodje mogu biti veoma korisni za ocenjivanje i izvodjenje zakljucnih ocena. 
+Stavise, prvi deo drugog projektnog zadatka mozete koristiti kao jos jednu kontrolnu vezbu 
+koja bi se radila nakon lekcije 3.1. za koju su predvidjena 4 casa.
 
-U folderima Tehnika i tehnologija 6, 7 i 8 nalaze se sadrzaji koji ce Vama i ucenicima 
-olaksati koriscenje konstruktorskih kompleta.
-
-Na sajtu Vulkan znanja (stranica Vulkan ucionica: https://vulkanznanje.rs/vulkan-ucionica.aspx)
-mozete pronaci predloge globalnih i operativnih planova, kao i dnevnih priprema za casove
-za sve predmete i sve razrede. 
+Na adresi https://vulkanznanje.rs/sedmi-razred-pp.aspx pronaci cete predlog globalnog
+plana, kao i operativnih planova u elektronskoj formi. Dnevne pripreme se nalaze na 
+stranici: https://vulkanznanje.rs/sedmi-razred-priprema.aspx 
 
 
 Autori:
-Milos Papic, Dalibor Cukljevic
+Milos Papic i Dalibor Cukljevic
