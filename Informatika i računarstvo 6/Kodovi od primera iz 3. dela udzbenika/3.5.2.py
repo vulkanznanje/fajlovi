@@ -1,0 +1,5 @@
+Prvi_broj = int(input("Unesi prvi broj: "))
+Drugi_broj = int(input("Unesi drugi broj: "))
+Treći_broj = int(input("Unesi treći broj: "))
+Najmanji_broj = min(Prvi_broj, Drugi_broj, Treći_broj)
+print("Najmanji broj je:", Najmanji_broj)
