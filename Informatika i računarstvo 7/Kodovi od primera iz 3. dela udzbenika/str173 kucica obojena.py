@@ -1,0 +1,33 @@
+import pygame as pg
+pg.init()
+prozor = pg.display.set_mode((400, 400))
+pg.display.set_caption("Hello Pygame!")
+prozor.fill(pg.Color("white"))
+pg.draw.rect(prozor, pg.Color("yellow"), (100, 180, 200, 120))
+pg.draw.rect(prozor, pg.Color("black"), (100, 180, 200, 120), 2)
+pg.draw.rect(prozor, pg.Color("red"), (90, 161, 220, 20))
+pg.draw.rect(prozor, pg.Color("black"), (90, 161, 220, 20), 2)
+pg.draw.rect(prozor, pg.Color("grey"), (120, 300, 80, 20))
+pg.draw.rect(prozor, pg.Color("black"), (120, 300, 80, 20), 2)
+pg.draw.rect(prozor, pg.Color("grey"), (130, 280, 60, 20))
+pg.draw.rect(prozor, pg.Color("black"), (130, 280, 60, 20), 2)
+pg.draw.rect(prozor, pg.Color("brown"), (135, 200, 50, 79))
+pg.draw.rect(prozor, pg.Color("black"), (135, 200, 50, 79), 2)
+pg.draw.rect(prozor, pg.Color("white"), (220, 200, 50, 50))
+pg.draw.rect(prozor, pg.Color("black"), (220, 200, 50, 50), 2)
+pg.draw.circle(prozor, pg.Color("black"), (175, 240), 5, 2)
+temenaKrov = (90, 161), (150,50),(250,50),(310,161)
+pg.draw.polygon(prozor, pg.Color("black"),temenaKrov, 3)
+pg.draw.polygon(prozor, pg.Color("red"),temenaKrov)
+pg.draw.line(prozor, pg.Color("black"), (225, 94), (225,130), 2)
+pg.draw.line(prozor, pg.Color("black"), (243, 94), (243,130), 2)
+pg.draw.line(prozor, pg.Color("black"), (244, 200), (244,250), 2)
+pg.draw.line(prozor, pg.Color("black"), (220, 225), (270,225), 2)
+pg.draw.rect(prozor, pg.Color("brown"), (220, 80, 30, 15))
+pg.draw.rect(prozor, pg.Color("black"), (220, 80, 30, 15), 2)
+pg.display.update()
+while pg.event.wait().type != pg.QUIT:
+    pass
+pg.quit()
+
+
