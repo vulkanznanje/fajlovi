@@ -15,4 +15,3 @@ https://vulkanznanje.rs/p/5070/Komplet-materijala-sa-uputstvom-za-izradu-vezbi-6
 
 Autori:
 Dalibor Cukljevic, Milos Papic
-Vulkan znanje
