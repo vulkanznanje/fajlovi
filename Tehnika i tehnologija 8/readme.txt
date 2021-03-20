@@ -12,4 +12,3 @@ https://www.youtube.com/watch?v=xeFCDhgJWfs&t=3097s
 
 Autori:
 Dalibor Cukljevic, Milos Papic
-Vulkan znanje
