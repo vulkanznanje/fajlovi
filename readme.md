@@ -29,5 +29,7 @@ Isto mozete uciniti i u 3D okruzenju Virtuelne skole Vulkan znanja na linku:
 https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
 Autori:
-Milos Papic, Dalibor Cukljevic </br>
+Milos Papic, Dalibor Cukljevic 
+</br>
+</br>
 ![Visitor Count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
