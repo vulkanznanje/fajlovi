@@ -33,3 +33,5 @@ Miloš Papić, Dalibor Čukljević
 </br>
 </br>
 ![Visitor count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
+https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
+
