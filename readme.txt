@@ -30,4 +30,3 @@ https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
 Autori:
 Milos Papic, Dalibor Cukljevic
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
