@@ -32,4 +32,4 @@ Autori:
 Miloš Papić, Dalibor Čukljević 
 </br>
 </br>
-![Visitor Count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
+![Brojač](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
