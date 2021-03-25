@@ -32,13 +32,15 @@ https://vulkanznanje.rs/a/79184741-7ee8-49d3-8f53-d39ecd87cf27/Milos-Papic-Dalib
 Isto mozete učiniti i u 3D okruzenju Virtuelne škole Vulkan znanja na linku:
 https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
-Autori:
-Miloš Papić, Dalibor Čukljević</p>    
+Autori:</br>
+Miloš Papić, Dalibor Čukljević
+
+</br>
+![Visitor count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
+</p>    
       </body>
 </html>
 
 
  
-</br>
-</br>
-![Visitor count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
+
