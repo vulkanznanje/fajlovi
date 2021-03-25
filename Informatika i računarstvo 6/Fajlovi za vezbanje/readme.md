@@ -29,5 +29,4 @@ https://www.shutterstock.com/image-photo/july-2013-london-uk-stadium-wimbledon-1
 </p>
 
 Autori:
-</br>  
 Miloš Papić i Dalibor Čukljević 
