@@ -2,7 +2,7 @@
 
 Fajl "Ponuda za ekskurziju" može se koristiti prilikom uvežbavanja gradiva iz lekcije 1.4. 
 koje se odnosi na formatiranje teksta i pratećih elemenata.
-{: .alert .alert-info .text-justify}
+
 Slike manastira Žiča i Ljubostinja koje su korišćene u primeru na slici 1.4.7.,
 pronaći ćete na narednim linkovima:
 Manastir Žiča (by White Writer, Wikipedia, CC BY-SA 3.0)
