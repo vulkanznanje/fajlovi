@@ -12,8 +12,10 @@ Na linku datom ispod možete pogledati detalje o svim našim udžbenicima i kons
 
 Isto mozete učiniti i u 3D okruzenju Virtuelne škole Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
-Autori:
+Autori:</br>
 Miloš Papić, Dalibor Čukljević
+</br>
+![](https://komarev.com/ghpvc/?username=vulkanznanje)
 
 
  
