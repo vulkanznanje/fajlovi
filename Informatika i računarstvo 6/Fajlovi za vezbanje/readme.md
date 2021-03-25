@@ -28,5 +28,5 @@ Slika terena Wimbledon (ID: 1097678441, by Meaning March) preuzeta je sa sajta S
 https://www.shutterstock.com/image-photo/july-2013-london-uk-stadium-wimbledon-1097678441
 </p>
 
-Autori:
+Autori:</br>
 Miloš Papić i Dalibor Čukljević 
