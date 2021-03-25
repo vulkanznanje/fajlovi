@@ -9,9 +9,6 @@ div {
 </style>
 </head>
 <body>
-
-<h1>The text-justify Property</h1>
-
 <div>Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka (fajlova sa ekstenzijom .ipynb) nazvanih Lekcija33 - Lekcija310. Svaka sveska se sastoji od brojnih zadataka koje učenici mogu rešavati nakon sto savladaju datu lekciju.
 
 Pored toga, ovde se nalazi nekoliko CSV fajlova potrebnih za rešavanje zadataka iz navedenih svezaka, kao i za rešavanje zadataka iz udžbenika Informatika i računarstvo 8, izdavačke kuće Vulkan znanje.
@@ -28,9 +25,6 @@ Isto mozete učiniti i u 3D okruzenju Virtuelne škole Vulkan znanja na linku: h
 
 Autori:
 Miloš Papić, Dalibor Čukljević</div>
-
-<p><b>Tip:</b> Resize the browser window to see how the value "justify" works.</p>
-
 </body>
 </html>
 
