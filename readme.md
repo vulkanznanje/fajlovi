@@ -34,13 +34,11 @@ https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
 Autori:</br>
 Miloš Papić, Dalibor Čukljević
-
-</br>
-![Visitor count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
 </p>    
       </body>
 </html>
 
-
+</br>
+![Visitor count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
  
 
