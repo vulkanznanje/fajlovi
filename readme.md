@@ -39,6 +39,6 @@ Miloš Papić, Dalibor Čukljević
 </html>
 
 </br>
-![Visitor count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
+![Visitor count](https://profile-counter.glitch.me/{vulkanznanje/fajlovi}/count.svg)
  
 
