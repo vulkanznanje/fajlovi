@@ -1,7 +1,6 @@
 <!DOCTYPE html>
    <html>    
       <head>      
-         <title>HTMLFont size</title>    
       </head>    
       <body>      
          <p style="color:black;font-size:18px;">Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka 
