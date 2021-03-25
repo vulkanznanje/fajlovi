@@ -15,8 +15,6 @@ Isto mozete učiniti i u 3D okruzenju Virtuelne škole Vulkan znanja na linku: h
 Autori:
 Miloš Papić, Dalibor Čukljević
 </div>
-</br>
-![Visitor count](https://profile-counter.glitch.me/{vulkanznanje/fajlovi}/count.svg)
 
 
  
