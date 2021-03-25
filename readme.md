@@ -15,9 +15,7 @@ Isto mozete učiniti i u 3D okruzenju Virtuelne škole Vulkan znanja na linku: h
 Autori:</br>
 Miloš Papić, Dalibor Čukljević
 </br>
-</br>
 </p>
-
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Profile+views)
 
  
