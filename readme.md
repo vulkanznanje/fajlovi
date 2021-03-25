@@ -1,4 +1,10 @@
-Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka 
+<!DOCTYPE html>
+   <html>    
+      <head>      
+         <title>HTMLFont size</title>    
+      </head>    
+      <body>      
+         <p style="color:black;font-size:18px;">Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka 
 (fajlova sa ekstenzijom .ipynb) nazvanih Lekcija33 - Lekcija310.
 Svaka sveska se sastoji od brojnih zadataka koje učenici mogu rešavati
 nakon sto savladaju datu lekciju.
@@ -15,7 +21,10 @@ U folderima Informatika i racunarstvo 6, 7 i 8 nalaze se dodatni sadržaji
 namenjeni za korišćenje uz naše udžbenike za šesti, sedmi i osmi razred.
 
 U folderima Tehnika i tehnologija 6, 7 i 8 nalaze se sadržaji koji će Vama i učenicima 
-olakšati korišćenje konstruktorskih kompleta.
+olakšati korišćenje konstruktorskih kompleta.</p>    
+      </body>
+</html>
+
 
 Na sajtu Vulkan znanja (stranica Vulkan učionica: https://vulkanznanje.rs/vulkan-ucionica.aspx)
 mozete pronaći predloge globalnih i operativnih planova, kao i dnevnih priprema za časove
