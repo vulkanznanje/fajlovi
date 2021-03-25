@@ -1,4 +1,4 @@
-<p align="justify"> U ovom folderu se nalaze fajlovi koje učenici mogu koristiti za vežbanje.
+<p align="justify">U ovom folderu se nalaze fajlovi koje učenici mogu koristiti za vežbanje.
 
 Fajl "Ponuda za ekskurziju" može se koristiti prilikom uvežbavanja gradiva iz lekcije 1.4. 
 koje se odnosi na formatiranje teksta i pratećih elemenata.
