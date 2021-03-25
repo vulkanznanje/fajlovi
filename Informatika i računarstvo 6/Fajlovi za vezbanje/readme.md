@@ -24,8 +24,7 @@ Roger Federer (by Arcelino Cavalcanti)
 https://www.uihere.com/free-cliparts/roger-federer-the-championships-wimbledon-tennis-player-racket-roger-federer-2978454
 
 Slika terena Wimbledon (ID: 1097678441, by Meaning March) preuzeta je sa sajta Shutterstock.
-https://www.shutterstock.com/image-photo/july-2013-london-uk-stadium-wimbledon-1097678441
-</p>
+https://www.shutterstock.com/image-photo/july-2013-london-uk-stadium-wimbledon-1097678441 </p>
 
 Autori:</br>
 Miloš Papić i Dalibor Čukljević 
