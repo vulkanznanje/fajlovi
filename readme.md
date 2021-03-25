@@ -3,7 +3,7 @@
       <head>      
       </head>    
       <body>      
-         <p style="color:black;font-size:12px;">Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka 
+         <p style="color:black;font-size:8px;">Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka 
 (fajlova sa ekstenzijom .ipynb) nazvanih Lekcija33 - Lekcija310.
 Svaka sveska se sastoji od brojnih zadataka koje učenici mogu rešavati
 nakon sto savladaju datu lekciju.
