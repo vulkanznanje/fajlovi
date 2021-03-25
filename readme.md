@@ -18,7 +18,6 @@ Miloš Papić, Dalibor Čukljević
 </br>
 </p>
 
-
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Profile+views)
 
  
