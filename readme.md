@@ -20,11 +20,7 @@ U folderima Informatika i racunarstvo 6, 7 i 8 nalaze se dodatni sadržaji
 namenjeni za korišćenje uz naše udžbenike za šesti, sedmi i osmi razred.
 
 U folderima Tehnika i tehnologija 6, 7 i 8 nalaze se sadržaji koji će Vama i učenicima 
-olakšati korišćenje konstruktorskih kompleta.</p>    
-      </body>
-</html>
-
-
+olakšati korišćenje konstruktorskih kompleta.
 Na sajtu Vulkan znanja (stranica Vulkan učionica: https://vulkanznanje.rs/vulkan-ucionica.aspx)
 mozete pronaći predloge globalnih i operativnih planova, kao i dnevnih priprema za časove
 za sve predmete i sve razrede. 
@@ -37,7 +33,12 @@ Isto mozete učiniti i u 3D okruzenju Virtuelne škole Vulkan znanja na linku:
 https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
 Autori:
-Miloš Papić, Dalibor Čukljević 
+Miloš Papić, Dalibor Čukljević</p>    
+      </body>
+</html>
+
+
+ 
 </br>
 </br>
 ![Visitor count](https://profile-counter.glitch.me/{vulkanznanje}/count.svg)
