@@ -1,4 +1,18 @@
-<div style="text-align: justify"> Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka (fajlova sa ekstenzijom .ipynb) nazvanih Lekcija33 - Lekcija310. Svaka sveska se sastoji od brojnih zadataka koje učenici mogu rešavati nakon sto savladaju datu lekciju.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+</head>
+<body>
+
+<h1>The text-justify Property</h1>
+
+<div>Ovde ćete pronaći zbirku zadataka za Jupyter Notebook u vidu svezaka (fajlova sa ekstenzijom .ipynb) nazvanih Lekcija33 - Lekcija310. Svaka sveska se sastoji od brojnih zadataka koje učenici mogu rešavati nakon sto savladaju datu lekciju.
 
 Pored toga, ovde se nalazi nekoliko CSV fajlova potrebnih za rešavanje zadataka iz navedenih svezaka, kao i za rešavanje zadataka iz udžbenika Informatika i računarstvo 8, izdavačke kuće Vulkan znanje.
 
@@ -13,8 +27,13 @@ Na linku datom ispod možete pogledati detalje o svim našim udžbenicima i kons
 Isto mozete učiniti i u 3D okruzenju Virtuelne škole Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
 Autori:
-Miloš Papić, Dalibor Čukljević
-</div>
+Miloš Papić, Dalibor Čukljević</div>
+
+<p><b>Tip:</b> Resize the browser window to see how the value "justify" works.</p>
+
+</body>
+</html>
+
 
 
  
