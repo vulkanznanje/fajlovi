@@ -16,7 +16,7 @@ Autori:</br>
 Miloš Papić, Dalibor Čukljević
 </br>
 </br>
-![](https://komarev.com/ghpvc/?username=vulkanznanje&label=PROFILE+VIEWS
+![](https://komarev.com/ghpvc/?username=vulkanznanje&Profil=PROFILE+VIEWS
 
  
 
