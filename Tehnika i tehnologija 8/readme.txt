@@ -9,6 +9,7 @@ Na YouTube kanalu Vulkan znanja su postavljeni video-snimci vebinara
 na kojima smo prezentovali konstruktorske komplete za 7. i 8. razred:
 https://www.youtube.com/watch?v=8UAT1sauLwY&t=4s
 https://www.youtube.com/watch?v=xeFCDhgJWfs&t=3097s
+https://www.youtube.com/watch?v=Ch-feq3qYcA
 
 Autori:
 Dalibor Cukljevic, Milos Papic
