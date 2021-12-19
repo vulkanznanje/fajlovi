@@ -5,3 +5,4 @@ xlrd>=1.1
 openpyxl>=2.5
 lxml>=4.2
 jupyter>=1.0
+pygame>=1.9.2b1
