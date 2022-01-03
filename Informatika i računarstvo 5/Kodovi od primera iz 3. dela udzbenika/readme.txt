@@ -2,7 +2,7 @@ Ovde cete pronaci kodove od svih programa u Scratch-u koji su
 korisceni kao primeri u udzbeniku za 5. razred.
 
 Nazivi fajlova su isti kao nazivi slika na kojima su dati 
-programi prikazani. Na primer, fajl 3.8.1.sb2 sadrzi programski
+programi prikazani. Na primer, fajl 3.8.1.sb3 sadrzi programski
 kod prikazan na slici 3.8.1.
 
 Fajlovi nisu predvidjeni da ih koriste ucenici vec iskljucivo
