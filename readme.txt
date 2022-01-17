@@ -1,26 +1,20 @@
-U ovom folderu se nalaze primeri petnaestominutnih testova i kontrolnih vezbi 
-izradjeni na osnovu gradiva naseg udzbenika Informatike i racunarstva za 8. razred.
+Ovde se nalaze kodovi od svih programa u Scratch-u koji su
+korisceni kao primeri u udzbeniku za 5. razred.
 
-U kontrolnim vezbama je za svaki zadatak naveden broj bodova koji on nosi, 
-a na kraju je data skala za ocenjivanje. Na ovaj nacin ucenici mogu izvrsiti 
-samoevaluaciju svog znanja.
+Programi su radjeni u Scratch-u 3.0 i imaju ekstenziju .SB3
 
-Nas predlog globalnog plana predvidja da se kontrolne vezbe rade na kraju svake 
-od 3 oblasti. Na ovaj nacin ce svi ucenici imati najmanje po 3 ocene prakticnog znanja i vestina, 
-dok im "teorijsko" znanje mozete ocenjivati pomocu 15-min testova, kao i testova za proveru znanja
-iz samog udzbenika. U zavisnosti od nacina Vaseg rada i dinamike realizacije nastave, 
-kontrolne vezbe mozete zadavati i parcijalno.  
+Nazivi fajlova su isti kao nazivi slika na kojima su dati 
+programi prikazani. Na primer, fajl 3.8.1.sb3 sadrzi programski
+kod prikazan na slici 3.8.1.
 
-Projektni zadaci takodje mogu biti veoma korisni za ocenjivanje i izvodjenje zakljucnih ocena. 
+Fajlovi nisu predvidjeni da ih koriste ucenici vec iskljucivo
+sluze da olaksaju nastavnicima pripremu za cas. U radu sa ucenicima
+treba potencirati da oni samostalno sklapaju blokove i formiraju naredbe.
 
-Nas predlog globalnog plana rada pronaci cete na adresi:
-https://vulkanznanje.rs/osmi-razred-global.aspx
-Operativni planovi se nalaze na adresama:
-https://vulkanznanje.rs/osmi-razred-rs.aspx
-https://vulkanznanje.rs/osmi-razred-vojvodina.aspx
-Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-https://vulkanznanje.rs/osmi-razred-priprema.aspx 
+Na stranici https://github.com/vulkanznanje/sb3tosb2 pronaci cete 
+program sb3tosb2.py koji sluzi za konvertovanje Scratch-ovih ekstenzija 
+iz SB3 u SB2. Uputstvo za koriscenje programa je dato u opisu repozitorijuma.
 
 
 Autori:
-Milos Papic i Dalibor Cukljevic
+Milos Papic i Dalibor Cukljevic 
