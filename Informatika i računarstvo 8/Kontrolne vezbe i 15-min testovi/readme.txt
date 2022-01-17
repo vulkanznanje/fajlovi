@@ -1,4 +1,5 @@
-﻿U ovom folderu se nalaze primeri petnaestominutnih testova i kontrolnih vezbi 
+SB3 to SB2 Converter
+U ovom folderu se nalaze primeri petnaestominutnih testova i kontrolnih vezbi 
 izradjeni na osnovu gradiva naseg udzbenika Informatike i racunarstva za 8. razred.
 
 U kontrolnim vezbama je za svaki zadatak naveden broj bodova koji on nosi, 
