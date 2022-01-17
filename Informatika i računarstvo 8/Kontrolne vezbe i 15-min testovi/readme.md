@@ -16,12 +16,12 @@ kontrolne vezbe mozete zadavati i parcijalno.
 Projektni zadaci takodje mogu biti veoma korisni za ocenjivanje i izvodjenje zakljucnih ocena. 
 
 Nas predlog globalnog plana rada pronaci cete na adresi:
-https://vulkanznanje.rs/osmi-razred-global.aspx
-Operativni planovi se nalaze na adresama:
-https://vulkanznanje.rs/osmi-razred-rs.aspx
-https://vulkanznanje.rs/osmi-razred-vojvodina.aspx
-Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-https://vulkanznanje.rs/osmi-razred-priprema.aspx 
+https://vulkanznanje.rs/osmi-razred-global.aspx </br>
+Operativni planovi se nalaze na adresama:</br>
+https://vulkanznanje.rs/osmi-razred-rs.aspx </br>
+https://vulkanznanje.rs/osmi-razred-vojvodina.aspx </br>
+Registrovani korisnici mogu preuzeti dnevne pripreme na adresi: </br>
+https://vulkanznanje.rs/osmi-razred-priprema.aspx </br>
 
 
 Autori:
