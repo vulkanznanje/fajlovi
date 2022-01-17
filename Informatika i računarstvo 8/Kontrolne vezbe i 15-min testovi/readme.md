@@ -17,12 +17,10 @@ Projektni zadaci takodje mogu biti veoma korisni za ocenjivanje i izvodjenje zak
 
 Nas predlog globalnog plana rada pronaci cete na adresi:
 https://vulkanznanje.rs/osmi-razred-global.aspx
-
 Operativni planovi se nalaze na adresama:
 https://vulkanznanje.rs/osmi-razred-rs.aspx
 https://vulkanznanje.rs/osmi-razred-vojvodina.aspx
 Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-
 https://vulkanznanje.rs/osmi-razred-priprema.aspx 
 
 
