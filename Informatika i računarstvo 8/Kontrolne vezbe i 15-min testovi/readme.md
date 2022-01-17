@@ -15,7 +15,7 @@ kontrolne vezbe mozete zadavati i parcijalno.
 
 Projektni zadaci takodje mogu biti veoma korisni za ocenjivanje i izvodjenje zakljucnih ocena. 
 
-Nas predlog globalnog plana rada pronaci cete na adresi:
+Nas predlog globalnog plana rada pronaci cete na adresi:</br>
 https://vulkanznanje.rs/osmi-razred-global.aspx </br>
 Operativni planovi se nalaze na adresama:</br>
 https://vulkanznanje.rs/osmi-razred-rs.aspx </br>
