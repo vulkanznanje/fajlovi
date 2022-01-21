@@ -13,6 +13,9 @@ Uz dnevne pripreme se dobijaju kontrolne vežbe i petnaestominutni testovi.
 
 Na linku datom ispod možete pogledati detalje o svim našim udžbenicima i konstruktorskim kompletima, te prelistati delove istih u PDF formatu: https://vulkanznanje.rs/a/79184741-7ee8-49d3-8f53-d39ecd87cf27/Milos-Papic-Dalibor-Cukljevic.aspx
 
+Na linku datom ispod REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):
+https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
+
 Isto možete učiniti i u 3D okruženju Virtuelne škole Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
