@@ -15,7 +15,7 @@ Na narednom linku možete pogledati detalje o svim našim udžbenicima i konstru
 
 Isto možete učiniti i u 3D okruženju Virtuelne škole Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
-Na linku datom ispod REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
+Na platformi mozaweb REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
 https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
 
 
