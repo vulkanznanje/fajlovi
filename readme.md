@@ -4,7 +4,7 @@ Pored toga, ovde se nalazi nekoliko CSV fajlova potrebnih za rešavanje zadataka
 
 Fajl pod nazivom 3.10. Визуелна презентација свеске.ipynb, predstavlja dodatnu lekciju koja je namenjena naprednim učenicima za koje je planirano da tokom realizacije Projektnog zadatka 2, datu lekciju samostalno prouče i implementiraju u svoj projektni zadatak.
 
-U folderima Informatika i računarstvo 5, 6, 7 i 8 nalaze se dodatni sadržaji namenjeni za korišćenje uz naše udžbenike za šesti, sedmi i osmi razred.
+U folderima Informatika i računarstvo 5, 6, 7 i 8 nalaze se dodatni sadržaji namenjeni za korišćenje uz naše udžbenike.
 
 U folderima Tehnika i tehnologija 5, 6, 7 i 8 nalaze se dodatni sadržaji namenjeni za korišćenje uz naše konstruktorske komplete.
 
