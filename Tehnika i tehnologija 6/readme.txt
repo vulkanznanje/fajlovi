@@ -10,6 +10,14 @@ Na linku datom ispod mozete pogledati detalje o konstruktorskom kompletu,
 te prelistati deo istog u PDF formatu (dugme POGLED U KNJIGU):
 https://vulkanznanje.rs/p/5070/Komplet-materijala-sa-uputstvom-za-izradu-vezbi-6
 
+Nas predlog globalnog plana rada pronaci cete na adresi:
+https://vulkanznanje.rs/sesti-razred-global.aspx
+Operativni planovi se nalaze na adresama:
+https://vulkanznanje.rs/sesti-razred-rs.aspx
+https://vulkanznanje.rs/sesti-razred-vojvodina.aspx
+Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
+https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fsesti-razred-priprema.aspx
+
+
 Autori:
 Dalibor Cukljevic, Milos Papic
-Vulkan znanje
