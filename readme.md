@@ -22,7 +22,7 @@ Autori:</br>
 :e-mail: milos.papic@ftn.kg.ac.rs <br/>
 :scroll: https://www.linkedin.com/in/milospapic/
 
-**Dalibor Čukljević, profesr tehnike i informatike**<br/>
+**Dalibor Čukljević, profesor tehnike i informatike**<br/>
 :office: OŠ "Dr Dragiša Mišović" u Čačku <br/>
 :computer: https://www.osdragisamisovic.edu.rs/ <br/>
 :e-mail: prof.dalibor@gmail.com <br/>
