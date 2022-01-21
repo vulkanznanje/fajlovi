@@ -14,7 +14,8 @@ Na linku datom ispod možete pogledati detalje o svim našim udžbenicima i kons
 
 Isto mozete učiniti i u 3D okruženju Virtuelne škole Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
-Autori:</br>
+![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
+
 **Dr Miloš Papić, vanr. prof.**<br/>
 :office: Fakultet tehničkih nauka u Čačku <br/>
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
@@ -30,7 +31,7 @@ Autori:</br>
 </br>
 </p>
 
-![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
+
 
  
 
