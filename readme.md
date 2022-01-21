@@ -15,7 +15,17 @@ Na linku datom ispod možete pogledati detalje o svim našim udžbenicima i kons
 Isto mozete učiniti i u 3D okruženju Virtuelne škole Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
 Autori:</br>
-Miloš Papić, Dalibor Čukljević
+**Др Милош Папић, ванр. проф.**<br/>
+:office: Факултет техничких наука у Чачку <br/>
+:computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
+:e-mail: milos.papic@ftn.kg.ac.rs <br/>
+:scroll: https://www.linkedin.com/in/milospapic/
+
+**Далибор Чукљевић, професор технике и информатике**<br/>
+:office: OШ "Др Драгиша Мишовић" у Чачку <br/>
+:computer: https://www.osdragisamisovic.edu.rs/ <br/>
+:e-mail: prof.dalibor@gmail.com <br/>
+:scroll: https://www.linkedin.com/in/daliborcukljevic/
 </br>
 </p>
 
