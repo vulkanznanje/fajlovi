@@ -11,7 +11,7 @@ U folderima Tehnika i tehnologija 5, 6, 7 i 8 nalaze se dodatni sadržaji namenj
 Na sajtu Vulkan znanja (stranica Vulkan učionica: https://vulkanznanje.rs/vulkan-ucionica.aspx) mozete pronaći predloge globalnih i operativnih planova, kao i dnevnih priprema za časove za sve predmete i sve razrede.
 Uz dnevne pripreme se dobijaju kontrolne vežbe i petnaestominutni testovi.
 
-Na linku datom ispod možete pogledati detalje o svim našim udžbenicima i konstruktorskim kompletima, te prelistati delove istih u PDF formatu: https://vulkanznanje.rs/a/79184741-7ee8-49d3-8f53-d39ecd87cf27/Milos-Papic-Dalibor-Cukljevic.aspx
+Na narednom linku datom ispod možete pogledati detalje o svim našim udžbenicima i konstruktorskim kompletima, te prelistati delove istih u PDF formatu: https://vulkanznanje.rs/a/79184741-7ee8-49d3-8f53-d39ecd87cf27/Milos-Papic-Dalibor-Cukljevic.aspx
 
 Na linku datom ispod REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
 https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
