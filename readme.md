@@ -18,6 +18,7 @@ Autori:</br>
 **Др Милош Папић, ванр. проф.**<br/>
 :office: Факултет техничких наука у Чачку <br/>
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
+:computer: https://www.researchgate.net/profile/Milos-Papic-2
 :e-mail: milos.papic@ftn.kg.ac.rs <br/>
 :scroll: https://www.linkedin.com/in/milospapic/
 
