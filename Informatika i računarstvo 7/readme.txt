@@ -13,8 +13,8 @@ https://vulkanznanje.rs/sedmi-razred-global.aspx
 Operativni planovi se nalaze na adresama:
 https://vulkanznanje.rs/sedmi-razred-rs.aspx
 https://vulkanznanje.rs/sedmi-razred-vojvodina.aspx
-Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-https://vulkanznanje.rs/sedmi-razred-priprema.aspx 
+Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
+prijavom na adresi: https://vulkanznanje.rs/sedmi-razred-priprema.aspx 
 
 Na platformi MOZAWEB (link ispod) REGISTROVANI korisnici mogu pogledati DEMO verziju naseg digitalnog udzbenika
 sa dodatnim sadrzajima (video-tutorijalima, digitalnim zadacima, fajlovima za vezbanje i 3D modelima):
