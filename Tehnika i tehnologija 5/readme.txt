@@ -1,4 +1,4 @@
-﻿Ovde se nalazi dodatna vezba koju ucenici mogu izraditi na osnovu materijala
+Ovde se nalazi dodatna vezba koju ucenici mogu izraditi na osnovu materijala
 iz konstruktorskog kompleta koji im ostane nakon izrade svih prethodnih vezbi. 
 
 Na linku datom ispod mozete pogledati detalje o konstruktorskom kompletu 5,
@@ -10,8 +10,8 @@ https://vulkanznanje.rs/peti-razred-global.aspx
 Operativni planovi se nalaze na adresama:
 https://vulkanznanje.rs/peti-razred-rs.aspx
 https://vulkanznanje.rs/peti-razred-vojvodina.aspx
-Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fpeti-razred-priprema.aspx
+Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
+prijavom na adresi: https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fpeti-razred-priprema.aspx
 
 
 Autori:
