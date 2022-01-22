@@ -13,8 +13,8 @@ https://vulkanznanje.rs/sesti-razred-global.aspx
 Operativni planovi se nalaze na adresama:
 https://vulkanznanje.rs/sesti-razred-rs.aspx
 https://vulkanznanje.rs/sesti-razred-vojvodina.aspx
-Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fsesti-razred-priprema.aspx
+Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
+prijavom na adresi: https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fsesti-razred-priprema.aspx
 
 Na platformi MOZAWEB (link ispod) REGISTROVANI korisnici mogu pogledati DEMO verziju naseg digitalnog udzbenika
 sa dodatnim sadrzajima (video-tutorijalima, digitalnim zadacima, fajlovima za vezbanje i 3D modelima):
@@ -22,4 +22,4 @@ https://www.mozaweb.com/sr/course.php?cmd=single_book&bid=RS-VLK-INF06-2412&from
 
 
 Autori:
-Milos Papic i Dalibor Cukljevic
+Milos Papic i Dalibor Cukljevic 
