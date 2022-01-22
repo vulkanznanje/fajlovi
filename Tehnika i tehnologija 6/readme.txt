@@ -15,8 +15,8 @@ https://vulkanznanje.rs/sesti-razred-global.aspx
 Operativni planovi se nalaze na adresama:
 https://vulkanznanje.rs/sesti-razred-rs.aspx
 https://vulkanznanje.rs/sesti-razred-vojvodina.aspx
-Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fsesti-razred-priprema.aspx
+Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
+prijavom na adresi: https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fsesti-razred-priprema.aspx
 
 
 Autori:
