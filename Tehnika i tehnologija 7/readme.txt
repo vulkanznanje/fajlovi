@@ -14,8 +14,8 @@ https://vulkanznanje.rs/sedmi-razred-global.aspx
 Operativni planovi se nalaze na adresama:
 https://vulkanznanje.rs/sedmi-razred-rs.aspx
 https://vulkanznanje.rs/sedmi-razred-vojvodina.aspx
-Registrovani korisnici mogu preuzeti dnevne pripreme na adresi:
-https://vulkanznanje.rs/sedmi-razred-priprema.aspx 
+Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
+prijavom na adresi: https://vulkanznanje.rs/sedmi-razred-priprema.aspx 
 
 Na YouTube kanalu Vulkan znanja su postavljeni video-snimci vebinara
 na kojima smo prezentovali konstruktorske komplete za 7. i 8. razred:
