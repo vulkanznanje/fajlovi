@@ -18,6 +18,8 @@ Isto možete učiniti i u 3D okruženju **Virtuelne škole** Vulkan znanja na li
 Na platformi **mozaweb** (link ispod) REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
 https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
 
+Posetite naš YouTube kanal:
+https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
 
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
