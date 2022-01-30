@@ -6,6 +6,12 @@ ucenicima da jos lepse ukrase maketu mosta (vezba 4), maketu kuce (vezba 5)
 i model aviona (vezba 9). NAPOMENA: prilikom stampanja fajlova sa nalepnicama, 
 potrebno je odabrati format papira A4 i opciju ACTUAL SIZE.
 
+U radu sa ucenicima treba potencirati na tome da obradu plocastih materijala
+iz kompleta zapocinju od ivica kako bi bilo sto manje otpada. Mozete ih uputiti
+i na veb-aplikaciju CutList Optimizer (https://www.cutlistoptimizer.com) 
+za koju smo napravili kratak video-tutorijal (sa primerima iz petackog kompleta)
+i postavili ga na nas YouTube kanal: https://www.youtube.com/watch?v=78PFykFRCzY
+
 Na linku datom ispod mozete pogledati detalje o konstruktorskom kompletu,
 te prelistati deo istog u PDF formatu (dugme POGLED U KNJIGU):
 https://vulkanznanje.rs/p/5070/Komplet-materijala-sa-uputstvom-za-izradu-vezbi-6
