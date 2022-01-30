@@ -1,5 +1,11 @@
-Ovde se nalazi dodatna vezba koju ucenici mogu izraditi na osnovu materijala
+﻿Ovde se nalazi dodatna vezba koju ucenici mogu izraditi na osnovu materijala
 iz konstruktorskog kompleta koji im ostane nakon izrade svih prethodnih vezbi. 
+
+U radu sa ucenicima treba potencirati na tome da obradu plocastih materijala
+iz kompleta zapocinju od ivica kako bi bilo sto manje otpada. Mozete ih uputiti
+i na veb-aplikaciju CutList Optimizer (https://www.cutlistoptimizer.com) 
+za koju smo napravili kratak video-tutorijal i postavili ga na nas YouTube kanal:
+https://www.youtube.com/watch?v=78PFykFRCzY
 
 Na linku datom ispod mozete pogledati detalje o konstruktorskom kompletu 5,
 te prelistati deo istog u PDF formatu (dugme POGLED U KNJIGU):
