@@ -13,6 +13,9 @@ https://vulkanznanje.rs/osmi-razred-vojvodina.aspx
 Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
 prijavom na adresi: https://vulkanznanje.rs/osmi-razred-priprema.aspx 
 
+Od skolske 2022/2023 godine, nastavnici koji odaberu nase konstruktorske komplete ce uz pripreme
+dobijati i uputstva za izradu vezbi iz kompleta u elektronskom formatu.
+
 Na YouTube kanalu Vulkan znanja su postavljeni video-snimci vebinara
 na kojima smo prezentovali konstruktorske komplete za 7. i 8. razred:
 https://www.youtube.com/watch?v=8UAT1sauLwY
