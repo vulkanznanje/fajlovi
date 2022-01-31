@@ -1,4 +1,4 @@
-﻿Ovde se nalazi dodatna vezba koju ucenici mogu izraditi na osnovu materijala
+Ovde se nalazi dodatna vezba koju ucenici mogu izraditi na osnovu materijala
 iz konstruktorskog kompleta koji im ostane nakon izrade svih prethodnih vezbi. 
 
 U radu sa ucenicima treba potencirati na tome da obradu plocastih materijala
@@ -19,6 +19,8 @@ https://vulkanznanje.rs/peti-razred-vojvodina.aspx
 Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
 prijavom na adresi: https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fpeti-razred-priprema.aspx
 
+Od skolske 2022/2023 godine, nastavnici koji odaberu nase konstruktorske komplete ce uz pripreme
+dobijati i uputstva za izradu vezbi iz kompleta u elektronskom formatu.
 
 Autori:
 Dalibor Cukljevic, Milos Papic
