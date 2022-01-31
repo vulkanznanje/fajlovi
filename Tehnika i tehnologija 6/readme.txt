@@ -1,4 +1,4 @@
-﻿U vecini vezbi iz konstruktorskog kompleta 6 se od ucenika trazi da 
+U vecini vezbi iz konstruktorskog kompleta 6 se od ucenika trazi da 
 nakon sto naprave model, isti ukrase odnosno oboje po zelji. 
 
 U tri prilozena PDF fajla se nalaze nalepnice koje mogu posluziti
@@ -24,6 +24,8 @@ https://vulkanznanje.rs/sesti-razred-vojvodina.aspx
 Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
 prijavom na adresi: https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fsesti-razred-priprema.aspx
 
+Od skolske 2022/2023 godine, nastavnici koji odaberu nase konstruktorske komplete ce uz pripreme
+dobijati i uputstva za izradu vezbi iz kompleta u elektronskom formatu.
 
 Autori:
 Dalibor Cukljevic, Milos Papic
