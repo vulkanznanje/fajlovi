@@ -39,11 +39,10 @@ https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
 :e-mail: prof.dalibor@gmail.com <br/>
 </br>
 <p align="left">
+       <a href="https://www.youtube.com/channel/UCRbpk-Pgl-8Ku6LD-Sv16cw" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
          <a href="https://www.instagram.com/vulkan_znanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876943-437df400-89a1-11eb-841d-a9052812e1ca.png" alt="Instagram"></a>
 <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876942-42e55d80-89a1-11eb-8730-21077a321694.png" alt="Facebook"></a>
-       <a href="https://www.youtube.com/channel/UCRbpk-Pgl-8Ku6LD-Sv16cw" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
-
-</p>
+       <a href="https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
 
 
 
