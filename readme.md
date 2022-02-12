@@ -28,14 +28,14 @@ https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
 :office: Fakultet tehničkih nauka u Čačku <br/>
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
 :computer: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
-:scroll: https://www.linkedin.com/in/milospapic/
+:scroll: https://www.linkedin.com/in/milospapic/ <br/>
 :e-mail: milos.papic@ftn.kg.ac.rs <br/>
 
 
 **Dalibor Čukljević, profesor tehnike i informatike**<br/>
 :office: OŠ "Dr Dragiša Mišović" u Čačku <br/>
 :computer: https://www.osdragisamisovic.edu.rs/ <br/>
-:scroll: https://www.linkedin.com/in/daliborcukljevic/
+:scroll: https://www.linkedin.com/in/daliborcukljevic/ <br/>
 :e-mail: prof.dalibor@gmail.com <br/>
 </br>
 <p align="left">
