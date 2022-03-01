@@ -24,6 +24,7 @@ Na YouTube kanalu Vulkan znanja postavljeni su video-snimci vebinara na kojima s
 udzbenik za 8. razred pisan po novom Programu nastave i ucenja (od juna 2021. godine):
 https://www.youtube.com/watch?v=NbmF71-Zz6M
 https://www.youtube.com/watch?v=JWAhZdyL6C4
+https://www.youtube.com/watch?v=sh4NgQM7Afg
 
 
 Autori:
