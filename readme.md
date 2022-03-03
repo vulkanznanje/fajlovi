@@ -12,8 +12,7 @@ Isto možete učiniti i u 3D okruženju **Virtuelne škole** Vulkan znanja na li
 Na platformi **mozaweb** (link ispod) REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
 https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
 
-Posetite i naš **YouTube kanal**:
-https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
+Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
 
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
@@ -33,10 +32,10 @@ https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
 :e-mail: prof.dalibor@gmail.com <br/>
 </br>
 <p align="left">
-       <a href="https://www.youtube.com/channel/UCRbpk-Pgl-8Ku6LD-Sv16cw" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
+       <a href="https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
          <a href="https://www.instagram.com/vulkan_znanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876943-437df400-89a1-11eb-841d-a9052812e1ca.png" alt="Instagram"></a>
 <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876942-42e55d80-89a1-11eb-8730-21077a321694.png" alt="Facebook"></a>
-       <a href="https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
+
 
 
 
