@@ -7,7 +7,8 @@ i na veb-aplikaciju CutList Optimizer (https://www.cutlistoptimizer.com)
 za koju smo napravili kratak video-tutorijal i postavili ga na nas YouTube kanal:
 https://www.youtube.com/watch?v=78PFykFRCzY
 
-Na kanal je postavljen i snimak dela vebinara u kom je ukratko predstavljen konstruktorski komplet za 5. razred: https://youtu.be/ut9g_AHffPQ
+Na kanal je postavljen i snimak dela vebinara u kom je ukratko predstavljen 
+konstruktorski komplet za 5. razred: https://youtu.be/ut9g_AHffPQ
 
 Na linku datom ispod mozete pogledati detalje o konstruktorskom kompletu 5,
 te prelistati deo istog u PDF formatu (dugme POGLED U KNJIGU):
