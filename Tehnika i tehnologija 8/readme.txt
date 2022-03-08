@@ -16,11 +16,13 @@ prijavom na adresi: https://vulkanznanje.rs/osmi-razred-priprema.aspx
 Od skolske 2022/2023 godine, nastavnici koji odaberu nase konstruktorske komplete ce uz pripreme
 dobijati i uputstva za izradu vezbi iz kompleta u elektronskom formatu.
 
-Na YouTube kanalu Vulkan znanja su postavljeni video-snimci vebinara
-na kojima smo prezentovali konstruktorske komplete za 7. i 8. razred:
-https://www.youtube.com/watch?v=8UAT1sauLwY
-https://www.youtube.com/watch?v=xeFCDhgJWfs
-
+Na naš YouTube kanal smo postavili snimke sa prezentacija konstruktorskog kompleta za 8. razred:
+https://www.youtube.com/watch?v=DhVZ1h26qpA
+https://www.youtube.com/watch?v=Fr3Y6muez0Q
+kao i snimke vebinara na kojima smo prezentovali konstruktorske komplete za 7. i 8. razred:
+https://www.youtube.com/watch?v=hH6CuWisdvA
+https://www.youtube.com/watch?v=6Igo4bjwP3c
+https://www.youtube.com/watch?v=YSexItLs-DA
 
 Autori:
 Dalibor Cukljevic, Milos Papic
