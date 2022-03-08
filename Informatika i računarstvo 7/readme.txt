@@ -20,6 +20,9 @@ Na platformi MOZAWEB (link ispod) REGISTROVANI korisnici mogu pogledati DEMO ver
 sa dodatnim sadrzajima (video-tutorijalima, digitalnim zadacima, fajlovima za vezbanje i 3D modelima):
 https://www.mozaweb.com/sr/course.php?cmd=single_book&bid=RS-VLK-INF07-2954&from=subject&from_value=INF&subject=INF&grade=&t=mozaweb
 
+Na našem YouTube kanalu možete pogledati kratku prezentaciju udžbenika: https://www.youtube.com/watch?v=HJbJ2MIs1bQ, kao
+i snimak vebinara na kom je predstavljen udžbenik (od 34:10)
+https://www.youtube.com/watch?v=thg14eFFcYQ"
 
 Autori:
 Milos Papic i Dalibor Cukljevic 
