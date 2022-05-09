@@ -22,6 +22,7 @@ Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
 :computer: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
 :scroll: https://www.linkedin.com/in/milospapic/ <br/>
+:scroll: https://www.facebook.com/miloshpapitj/ <br/>
 :e-mail: milos.papic@ftn.kg.ac.rs <br/>
 
 
@@ -29,6 +30,7 @@ Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-
 :office: OŠ "Dr Dragiša Mišović" u Čačku <br/>
 :computer: https://www.osdragisamisovic.edu.rs/ <br/>
 :scroll: https://www.linkedin.com/in/daliborcukljevic/ <br/>
+:scroll: https://www.facebook.com/miloshpapitj/ <br/>
 :e-mail: prof.dalibor@gmail.com <br/>
 </br>
 <p align="left">
