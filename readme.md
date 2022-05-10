@@ -30,7 +30,7 @@ Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-
 :office: OŠ "Dr Dragiša Mišović" u Čačku <br/>
 :computer: https://www.osdragisamisovic.edu.rs/ <br/>
 :scroll: https://www.linkedin.com/in/daliborcukljevic/ <br/>
-:scroll: https://www.facebook.com/miloshpapitj/ <br/>
+:scroll: https://www.facebook.com/daliborcukljevic/ <br/>
 :e-mail: prof.dalibor@gmail.com <br/>
 </br>
 <p align="left">
