@@ -1,9 +1,3 @@
-[![lite-badge]][lite] [![binder-badge]][binder]
-[lite-badge]: https://jupyterlite.rtfd.io/en/latest/_static/badge.svg
-[lite]: https://jupyterlite.rtfd.io/en/latest/try/lab
-[binder-badge]: https://mybinder.org/badge_logo.svg
-[binder]: https://mybinder.org/v2/gh/jupyterlite/jupyterlite/main?urlpath=lab
-
 U folderima Informatika i računarstvo 5, 6, 7 i 8 nalaze se dodatni sadržaji namenjeni za korišćenje uz naše udžbenike.
 
 U folderima Tehnika i tehnologija 5, 6, 7 i 8 nalaze se dodatni sadržaji namenjeni za korišćenje uz naše konstruktorske komplete.
