@@ -38,11 +38,6 @@ Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-
          <a href="https://www.instagram.com/vulkan_znanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876943-437df400-89a1-11eb-841d-a9052812e1ca.png" alt="Instagram"></a>
 <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876942-42e55d80-89a1-11eb-8730-21077a321694.png" alt="Facebook"></a>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
-
 
  
 
