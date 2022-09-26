@@ -9,6 +9,12 @@ Na **našoj stranici na sajtu Vulkan znanja** možete pogledati detalje o svim n
 
 Isto možete učiniti i u 3D okruženju **Virtuelne škole** Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
+Nadamo se da ćemo se družiti i na našim akreditovanim seminarima:
+* [Nastava programiranja u oblaku: paradigma novog doba][1]
+* [Statičke i dinamičke prezentacije u svetlu novih tehnologija][2]
+[1]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857
+[2]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
+
 Na platformi **mozaweb** (link ispod) REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
 https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
 
