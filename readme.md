@@ -15,10 +15,8 @@ https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulk
 Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
 
 Nadamo se da ćemo se družiti i na našim akreditovanim seminarima:
-- [Nastava programiranja u oblaku: paradigma novog doba][1]
-- [Statičke i dinamičke prezentacije u svetlu novih tehnologija][2]
-[1]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857
-[2]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
+- [Nastava programiranja u oblaku: paradigma novog doba] (https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857)
+- [Statičke i dinamičke prezentacije u svetlu novih tehnologija] (https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959)
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
 
