@@ -16,7 +16,7 @@ Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-
 
 Nadamo se da ćemo se družiti i na našim akreditovanim seminarima:
 
-[Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857)
+[Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959)
 
 [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857)
 
