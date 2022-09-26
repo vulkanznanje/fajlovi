@@ -9,17 +9,16 @@ Na **našoj stranici na sajtu Vulkan znanja** možete pogledati detalje o svim n
 
 Isto možete učiniti i u 3D okruženju **Virtuelne škole** Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
 
-Nadamo se da ćemo se družiti i na našim akreditovanim seminarima:
-* [Nastava programiranja u oblaku: paradigma novog doba][1]
-* [Statičke i dinamičke prezentacije u svetlu novih tehnologija][2]
-[1]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857
-[2]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
-
 Na platformi **mozaweb** (link ispod) REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
 https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
 
 Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
 
+Nadamo se da ćemo se družiti i na našim akreditovanim seminarima:
+- [Nastava programiranja u oblaku: paradigma novog doba][1]
+- [Statičke i dinamičke prezentacije u svetlu novih tehnologija][2]
+[1]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857
+[2]: https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
 
