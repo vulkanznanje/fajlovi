@@ -1,3 +1,5 @@
+Poštovane koleginice i kolege,
+
 U folderima Informatika i računarstvo 5, 6, 7 i 8 nalaze se dodatni sadržaji namenjeni za korišćenje uz naše udžbenike.
 
 U folderima Tehnika i tehnologija 5, 6, 7 i 8 nalaze se dodatni sadržaji namenjeni za korišćenje uz naše konstruktorske komplete.
