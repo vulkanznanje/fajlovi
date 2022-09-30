@@ -16,9 +16,9 @@ https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulk
 
 Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
 
-Nadamo se da ćemo se družiti i na našim akreditovanim seminarima tokom naredne tri školske godine (2022/2023, 2023/2024. и 2024/2025.):
+Nadamo se da ćemo se družiti i na našim akreditovanim seminarima tokom naredne tri školske godine (2022/2023, 2023/2024. i 2024/2025.):
 
-* [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959)
+* [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959) link https://sites.google.com/view/moderneprezentacije ka sajtu seminara.
 * [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857)
 
 
