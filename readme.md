@@ -18,7 +18,7 @@ Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-
 
 Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
 
-* [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959) (sajt seminara: u izradi)
+* [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959) (sajt seminara: https://vulkanobuka.github.io/)
 * [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857) (sajt seminara: https://sites.google.com/view/moderneprezentacije)
 
 
