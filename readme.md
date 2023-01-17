@@ -46,5 +46,7 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876942-42e55d80-89a1-11eb-8730-21077a321694.png" alt="Facebook"></a>
 
 
- 
+ # JupyterLab 3.2.9 on Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/HEAD)
 
