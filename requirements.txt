@@ -8,3 +8,10 @@ jupyter>=1.0
 pygame>=1.9.3
 pyperclip
 typing_extensions
+
+
+
+ipykernel>=6
+jupyterlab==3.2.9
+jupyterlab-link-share
+xeus-python
