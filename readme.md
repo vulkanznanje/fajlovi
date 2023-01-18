@@ -51,4 +51,4 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/HEAD)
 
 # Pokretanje sveske za saradnicki rad u JupyterLab-u preko Binder-a 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/master?labpath=https%3A%2F%2Fgithub.com%2Fvulkanznanje%2Ffajlovi%2Fblob%2Fmaster%2FSaradni%25C4%258Dki_rad.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/master?urlpath=https%3A%2F%2Fgithub.com%2Fvulkanznanje%2Ffajlovi%2Fblob%2Fmaster%2FSaradni%25C4%258Dki_rad.ipynb)
