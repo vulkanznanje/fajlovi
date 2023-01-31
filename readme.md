@@ -54,4 +54,4 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/master?labpath=Saradni%C4%8Dki_rad.ipynb)
 
 #Pokretanje vulkanovog repozitorijuma u Google Colab-u
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vulkanznanje/fajlovi/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vulkanznanje/fajlovi/)
