@@ -47,12 +47,12 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876942-42e55d80-89a1-11eb-8730-21077a321694.png" alt="Facebook"></a>
 
 
- # Pokretanje vulkanovog repozitorijuma u JupyterLab-u preko Binder-a 
+Pokretanje JupyterLab-a preko Binder-a 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/HEAD)
 
-# Pokretanje sveske za saradnicki rad u JupyterLab-u preko Binder-a 
+Pokretanje sveske *Saradnički rad* u JupyterLab-a preko Binder-a 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/master?labpath=Saradni%C4%8Dki_rad.ipynb)
 
-# Pokretanje vulkanovog repozitorijuma u Google Colab-u
+# Pokretanje Google Colab-a
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vulkanznanje/fajlovi/)
