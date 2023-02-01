@@ -48,10 +48,10 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 
 
 Pokretanje repozitorijuma u okruženju JupyterLab preko Binder-a
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/HEAD).
 
 Pokretanje sveske *Saradnički rad* u okruženju JupyterLab preko Binder-a 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/master?labpath=Saradni%C4%8Dki_rad.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/master?labpath=Saradni%C4%8Dki_rad.ipynb).
 
 Pokretanje repozitorijuma u okruženju Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vulkanznanje/fajlovi/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vulkanznanje/fajlovi/).
