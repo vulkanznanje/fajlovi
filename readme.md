@@ -31,6 +31,8 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 :scroll: https://www.linkedin.com/in/milospapic/ <br/>
 :scroll: https://www.facebook.com/miloshpapitj/ <br/>
 :e-mail: milos.papic@ftn.kg.ac.rs <br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/workplace.svg' alt='workplace' height='40'>](http://www.ftn.kg.ac.rs/milos.papic)  
+
 
 
 **Dalibor Čukljević, profesor tehnike i informatike**<br/>
