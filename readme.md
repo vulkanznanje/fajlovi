@@ -14,7 +14,7 @@ Isto možete učiniti i u 3D okruženju **Virtuelne škole** Vulkan znanja na li
 Na platformi **mozaweb** (link ispod) REGISTROVANI korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima):<br/>
 https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list
 
-Posetite i naš **YouTube kanal**: https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
+Posetite i naš **YouTube kanal**: https://www.youtube.com/@vulkanznanjeInformatika na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
 
 Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
 
