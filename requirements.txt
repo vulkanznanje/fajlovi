@@ -5,7 +5,7 @@ xlrd>=1.1
 openpyxl>=2.5
 lxml>=4.2
 jupyter>=1.0
-pygame==2.1.2
+pygame>=2.1.2
 pyperclip
 typing_extensions
 
