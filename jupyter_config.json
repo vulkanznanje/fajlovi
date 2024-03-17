@@ -1,4 +1,5 @@
 {
   "LabApp": { "collaborative": true, "expose_app_in_browser": true }
+  jupyter lab build --dev-build=False --minimize=False
 }
-jupyter lab build --dev-build=False --minimize=False
+
