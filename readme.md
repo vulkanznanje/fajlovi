@@ -21,7 +21,7 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
 
-**Dr Miloš Papić, vanr. prof.**<br/>
+**Prof. dr Miloš Papić**<br/>
 :office: Fakultet tehničkih nauka u Čačku <br/>
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
 :computer: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
