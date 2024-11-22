@@ -11,6 +11,7 @@ typing_extensions
 
 
 ipykernel>=6
+jupyterLab
 jupyterlab-link-share
 xeus-python
 
