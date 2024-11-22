@@ -11,9 +11,6 @@ typing_extensions
 
 
 ipykernel>=6
-jupyterLab==3.2.9
+jupyterLab>=3.2.9
 jupyterlab-link-share
 xeus-python
-
-
-jupyter_server>=2.0.0
