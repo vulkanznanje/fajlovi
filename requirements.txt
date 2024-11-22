@@ -4,14 +4,17 @@ pandas>=1.0
 xlrd>=1.1
 openpyxl>=2.5
 lxml>=4.2
-jupyter>=1.0
 pygame>=2.1.2
 pyperclip
 typing_extensions
 
 
 
-ipykernel>=6
+jupyter-resource-usage==1.0.1
+jupyterlab-link-share~=0.3
+jupyterlab-night
+notebook==7.2.0
+matplotlib
+numpy
+plotly~=5.3
 jupyterlab==4.2.3
-jupyterlab-link-share~=0.3.0
-jupyter-collaboration~=2.0
