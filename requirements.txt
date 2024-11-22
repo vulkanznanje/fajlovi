@@ -10,11 +10,5 @@ typing_extensions
 
 
 
-jupyter-resource-usage==1.0.1
-jupyterlab-link-share~=0.3
-jupyterlab-night
-notebook==7.2.0
-matplotlib
-numpy
-plotly~=5.3
-jupyterlab==4.2.3
+jupyterlab>=4.3.0rc1
+notebook>=7.3.0b1
