@@ -10,5 +10,4 @@ typing_extensions
 
 
 
-jupyterlab>=4.3.0rc1
-notebook>=7.3.0b1
+jupyterlab==4.2.3
