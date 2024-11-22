@@ -8,3 +8,6 @@ jupyter>=1.0
 pygame>=2.1.2
 pyperclip
 typing_extensions
+
+
+jupyterlab==4.2.3
