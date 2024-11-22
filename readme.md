@@ -47,8 +47,5 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 Pokretanje ovog repozitorijuma u okruženju JupyterLab (preko Binder-a)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/HEAD)
 
-Pokretanje pojedinačne sveske (*Saradnički rad.ipynb*) u okruženju JupyterLab preko Binder-a 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vulkanznanje/fajlovi/master?labpath=Saradni%C4%8Dki_rad.ipynb)
-
 Pokretanje ovog repozitorijuma u okruženju Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vulkanznanje/fajlovi/)
