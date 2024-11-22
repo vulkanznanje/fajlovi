@@ -15,3 +15,5 @@ jupyterLab==3.2.9
 jupyterlab-link-share
 xeus-python
 
+
+jupyter_server>=2.0.0
