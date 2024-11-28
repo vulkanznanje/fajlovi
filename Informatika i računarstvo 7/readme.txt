@@ -24,8 +24,5 @@ Na našem YouTube kanalu možete pogledati kratku prezentaciju udžbenika: https
 i snimak vebinara na kom je predstavljen udžbenik (od 34:10)
 https://www.youtube.com/watch?v=thg14eFFcYQ"
 
-Na linku datom ispod mozete preuzeti instalacione fajlove za SketchUp i Envisioneer Express:
-* [Download](https://drive.google.com/drive/folders/1BTeIdOMl734iAQZml-vfzvbep85TogUS?usp=sharing)
-
 Autori:
 Milos Papic i Dalibor Cukljevic 
