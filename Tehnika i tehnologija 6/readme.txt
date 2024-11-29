@@ -23,6 +23,8 @@ https://vulkanznanje.rs/sesti-razred-rs.aspx
 https://vulkanznanje.rs/sesti-razred-vojvodina.aspx
 Nasi korisnici mogu dobiti dnevne pripreme (sa kontrolnim vezbama i 15-min testovima)
 prijavom na adresi: https://vulkanznanje.rs/log-in.aspx?ReturnUrl=%2fsesti-razred-priprema.aspx
+Na linku datom ispod mozete preuzeti instalacione fajlove za SketchUp i Envisioneer Express:
+https://drive.google.com/drive/folders/1BTeIdOMl734iAQZml-vfzvbep85TogUS?usp=sharing
 
 Od skolske 2022/2023 godine, nastavnici koji odaberu nase konstruktorske komplete ce uz pripreme
 dobijati i uputstva za izradu vezbi iz kompleta u elektronskom formatu.
