@@ -13,7 +13,7 @@ Isto možete učiniti i u 3D okruženju **Virtuelne škole** Vulkan znanja na li
 
 Posetite i naš **YouTube kanal**: https://www.youtube.com/@vulkanznanjeInformatika na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
 
-Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
+Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2026/2027., 2027/2028. i 2028/2029.):
 
 * [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959) (sajt seminara: https://vulkanobuka.github.io/)
 * [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857) (sajt seminara: https://sites.google.com/view/moderneprezentacije)
