@@ -15,8 +15,8 @@ Posetite i naš **YouTube kanal**: https://www.youtube.com/@vulkanznanjeInformat
 
 Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2026/2027., 2027/2028. i 2028/2029.):
 
-* [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959) (sajt seminara: https://vulkanobuka.github.io/)
-* [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857) (sajt seminara: https://sites.google.com/view/moderneprezentacije)
+* [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=181) (sajt seminara: https://vulkanobuka.github.io/)
+* [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=688) (sajt seminara: https://sites.google.com/view/moderneprezentacije)
 
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
