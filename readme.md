@@ -9,8 +9,6 @@ Uz dnevne pripreme se dobijaju kontrolne vežbe i petnaestominutni testovi.
 
 Na **našoj stranici na sajtu Vulkan znanja** možete pogledati detalje o svim našim udžbenicima i konstruktorskim kompletima, te prelistati delove istih u PDF formatu: https://www.vulkanznanje.rs/a/79184741-7ee8-49d3-8f53-d39ecd87cf27/Milos-Papic-Dalibor-Cukljevic.aspx
 
-Isto možete učiniti i u 3D okruženju **Virtuelne škole** Vulkan znanja na linku: https://3d.vulkanznanje.rs/sr_cyr#informatika-3
-
 Posetite i naš **YouTube kanal**: https://www.youtube.com/@vulkanznanjeInformatika na kom možete pogledati snimke vebinara i prezentacija udžbenika i konstruktorskih kompleta, te kratke najavne spotove za iste. Postavili smo i po nekoliko promotivnih video-tutorijala za svaki razred koji se nalaze u digitalnim udžbenicima.
 
 Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2026/2027., 2027/2028. i 2028/2029.):
