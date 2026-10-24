@@ -15,6 +15,7 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 
 * [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=181) (sajt seminara: https://vulkanobuka.github.io/)
 * [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=688) (sajt seminara: https://sites.google.com/view/moderneprezentacije)
+* [Tehnoloski poboljsano ucenje: digitalni udzbenici u praksi](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=624) (sajt seminara: u pripremi)
 
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
